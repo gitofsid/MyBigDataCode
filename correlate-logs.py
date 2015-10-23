@@ -1,10 +1,6 @@
 """
 /* ******************************************************************************************
  * Name - Siddharth Baronia 
- * Email - sbaronia@sfu.ca 
- * Student Number - 301288430
- * Assignment 3b, CMPT 732 
- * Date - 23 Oct 2015
  * 
  * Problems -1. Read from JSON format to find host and bytes values
  *           2. Sum the values of bytes and count for each host

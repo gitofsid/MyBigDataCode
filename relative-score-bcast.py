@@ -1,10 +1,6 @@
 """
 /* ******************************************************************************************
  * Name - Siddharth Baronia 
- * Email - sbaronia@sfu.ca 
- * Student Number - 301288430
- * Assignment 3b, CMPT 732 
- * Date - 23 Oct 2015
  * 
  * Problems -1. Reuse reddit average code
  *           2. Add the avaerage of every unique subreddit to the JSON form

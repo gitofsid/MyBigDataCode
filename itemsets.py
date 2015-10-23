@@ -1,11 +1,7 @@
 """
 /* ******************************************************************************************
  * Name - Siddharth Baronia 
- * Email - sbaronia@sfu.ca 
- * Student Number - 301288430
- * Assignment 3b, CMPT 732 
- * Date - 23 Oct 2015
- * 
+ *
  * Problems -1. Top 10000 frequent itemsets using FPGrowth
  *           2. Arrange them in freuency descending order
  *           3. For same frequencies arrange them in ascending order
